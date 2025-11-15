@@ -1,3 +1,4 @@
+# Video Auto-Skipper for Discord Orbs
 This tool automatically jumps a video to its final timestamp so you can quickly collect Discord Orbs without manually scrubbing through the playback.
 
 ## Usage

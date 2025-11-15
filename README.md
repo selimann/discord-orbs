@@ -1,5 +1,3 @@
-<img width="1770" height="790" alt="Screenshot - Copy" src="https://github.com/user-attachments/assets/198e0f1f-f594-4e02-87a7-f376e766af5c" /># Video Auto-Skipper for Discord Orbs
-
 This tool automatically jumps a video to its final timestamp so you can quickly collect Discord Orbs without manually scrubbing through the playback.
 
 ## Usage
